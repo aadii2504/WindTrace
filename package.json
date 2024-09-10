@@ -1,0 +1,17 @@
+{
+  "name": "windtrace",
+  "version": "1.0.0",
+  "description": "Track me -  Trackers are added  ,  we can see the real time tracker as user moves",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.20.0",
+    "socket.io": "^4.7.5"
+  }
+}
